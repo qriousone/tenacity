@@ -1,0 +1,25 @@
+{
+  "name": "tenacity",
+  "version": "1.0.0",
+  "description": "Living Styleguide Generator",
+  "main": "src/index.js",
+  "bin": {
+    "tenacity": "src/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qriousone/tenacity.git"
+  },
+  "author": "Maurice Ngo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qriousone/tenacity/issues"
+  },
+  "homepage": "https://github.com/qriousone/tenacity#readme",
+  "dependencies": {
+    "jsonfile": "^4.0.0"
+  }
+}

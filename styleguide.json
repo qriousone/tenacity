@@ -1,0 +1,14 @@
+{
+  "$base-font-urls": "('https://fonts.googleapis.com/css?family=Raleway:100,300,400,700')!default",
+  "$base-font-family": "'Raleway',sans-serif!default",
+  "$base-font-size": "16!default",
+  "$base-letter-spacing": "0.05em",
+  "$base-line-height": "1rem*1.5!default",
+  "$base-scale": "'perfect-forth'",
+  "$color-white": "#ffffff!default",
+  "$color-black": "#000000!default",
+  "$color-red": "#ff0030!default",
+  "$color-grey": "#f1f1f1!default",
+  "$site-width": "1200",
+  "$breakpoints": "(mobile:(0,599),tablet-portrait:(600,899),tablet-landscape:(900,1199),desktop-up:(1200,1800))"
+}
