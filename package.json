@@ -1,6 +1,6 @@
 {
   "name": "tenacity",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Living Styleguide Generator",
   "main": "lib/index.js",
   "bin": {
